@@ -17,7 +17,7 @@ This is a github profile finder app that a user can use to search for a github p
 
 
 ## Introduction
-The aim of this project is to allow users to generate password easily without going through the hassle of thinking of what password to use everytime a password is needed. 
+The aim of this project is to allow users to find a specific person on Github and view their profile details by grabbing some specific information via Github's API such as full name, repository, followers, amongst others. 
 
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/github_profile_finder/blob/main/screenshot_image.png)
@@ -37,7 +37,7 @@ The GUI of this project allows users to:
 * View user's followers, repos and 5 most recent repositories
 
 ## Link to Published Project
-[github_profile finder_webpage](https://wemiibidun.github.io/password_generator/)
+[github_profile finder_webpage](https://wemiibidun.github.io/github_profile_finder/)
 
 ## Status
 Project is: _Complete_
