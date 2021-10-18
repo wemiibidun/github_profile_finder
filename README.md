@@ -11,7 +11,7 @@ This is a github profile finder app that a user can use to search for a github p
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
 * [Features](#features)
-* [Link to Published Project](#link-to-published-portfolio)
+* [Link to Published Project](#link-to-published-project)
 * [Status](#status)
 * [Contact](#contact)
 
