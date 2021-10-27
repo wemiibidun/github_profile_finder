@@ -1,5 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/github_profile_finder)
-![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+
 
 
 # Github Profile Finder
